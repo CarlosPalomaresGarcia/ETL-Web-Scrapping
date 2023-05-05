@@ -1,4 +1,4 @@
-# Proyecto ETL ( Extract, Transform, and Load)    ![ironhack_logo](images/ironhack_logo.png)
+# Proyecto ETL ( Extract, Transform, and Load)    
 
 ## Este proyecto consta de 3 pasos.
     
@@ -11,12 +11,10 @@
     :heavy_check_mark: Extraccion y carga de datos en SQL
     
 
+![dog](images/dog_computer.jpg)
+
 ## Paso 1: Extracción de datos.
 
-
----
-
-![dog](images/dog_computer.jpg)
 
 Descarga de archivo csv en Kaggle sobre las razas de perro.
 Web scraping en web 1: 
@@ -31,13 +29,11 @@ Web scraping en web 2:
 ## Paso 2: Transformación datos
 
 
----
-
 Limpieza de los DataFrames intermedios creados para finalmente unirlo al original.
 Limpieza del DataFrame final
 
 
-# Paso 3: Cargar datos en SQL. :construction_worker:
+# Paso 3: Cargar datos en SQL.
 
 ---
 
