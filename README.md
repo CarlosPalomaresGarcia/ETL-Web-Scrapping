@@ -2,13 +2,13 @@
 
 ## Este proyecto consta de 3 pasos.
     
-    :heavy_check_mark: Extraer datos desde 3 fuentes distintas y con 2 métodos de extracción.
-        :arrow_right: Fuentes: Kaggle y dos webs,
-        :arrow_right: Métodos: csv y web scraping con selenium.
+    - Extraer datos desde 3 fuentes distintas y con 2 métodos de extracción.
+        + Fuentes: Kaggle y dos webs,
+        + Métodos: csv y web scraping con selenium.
     
-    :broom: Transformar datos. Limpieza con pandas.
+    - Transformar datos. Limpieza con pandas.
 
-    :heavy_check_mark: Extraccion y carga de datos en SQL
+    - Extraccion y carga de datos en SQL
     
 
 ![dog](images/dog_computer.jpg)
