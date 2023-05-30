@@ -10,9 +10,6 @@
 
     - Extraccion y carga de datos en SQL
     
-
-![dog](images/dog_computer.jpg)
-
 ## Paso 1: Extracción de datos.
 
 
